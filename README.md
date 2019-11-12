@@ -1,5 +1,5 @@
 ## Course Basic HTML5 II
-<ul class="btn-danger">
+<ul>
     <li>Protocolo HTTP</li>
     <li>O que é HTML</li>
     <li>O que é Tag</li>
